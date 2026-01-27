@@ -22,51 +22,27 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
 
 <div align="center">
   <!-- Languages -->
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=firebase" target="_blank">
-        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase">
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=mongodb" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB">
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://techstack-generator.vercel.app/mysql-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60">
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=postgres" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL">
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=supabase" target="_blank">
-        <img src="https://skillicons.dev/icons?i=supabase" width="60" height="60" alt="Supabase">
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=materialui" target="_blank">
-        <img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" alt="MaterialUI">
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=tailwind" target="_blank">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind">
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=threejs" target="_blank">
-        <img src="https://skillicons.dev/icons?i=threejs" width="60" height="60" alt="Three.js">
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://techstack-generator.vercel.app/restapi-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="60" height="60">
-      </a>
-    </td>
+  <td align="center" width="90">
+    <a href="https://skillicons.dev/icons?i=solidity" target="_blank">
+      <img src="https://skillicons.dev/icons?i=solidity" width="60" height="60" alt="Solidity">
+    </a>
+  </td>
+  <td align="center" width="90">
+    <a href="https://skillicons.dev/icons?i=rust" target="_blank">
+      <img src="https://skillicons.dev/icons?i=rust" width="60" height="60" alt="Rust">
+    </a>
+  </td>    
+  <td align="center" width="90">
+    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="60" height="60" alt="Ethereum">
+  </td>
+  <td align="center" width="90">
+    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="60" height="60" alt="Solana">
+  </td>
+  <td align="center" width="90">
+   <a href="https://techstack-generator.vercel.app/python-icon.svg" target="_blank">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="MySQL" width="60" height="60">
+   </a>
+  </td>
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
