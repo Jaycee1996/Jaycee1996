@@ -22,6 +22,10 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
 
 <div align="center">
   <!-- Languages -->
+
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=solidity" width="50" height="50" alt="Solidity">
+  </td>
   <td align="center" width="90">
     <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="50" height="50" alt="Ethereum">
   </td>
