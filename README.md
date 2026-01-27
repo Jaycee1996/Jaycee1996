@@ -25,47 +25,47 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=firebase" target="_blank">
         <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase">
-      </a><br>Firebase
+      </a>
     </td>
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=mongodb" target="_blank">
         <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB">
-      </a><br>MongoDB
+      </a>
     </td>
     <td align="center" width="90">
       <a href="https://techstack-generator.vercel.app/mysql-icon.svg" target="_blank">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55">
-      </a><br>MySQL
+      </a>
     </td>
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=postgres" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL">
-      </a><br>PostgreSQL
+      </a>
     </td>
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=supabase" target="_blank">
         <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase">
-      </a><br>Supabase
+      </a>
     </td>
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=materialui" target="_blank">
         <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MaterialUI">
-      </a><br>MaterialUI
+      </a>
     </td>
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=tailwind" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind">
-      </a><br>Tailwind
+      </a>
     </td>
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=threejs" target="_blank">
         <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js">
-      </a><br>Three.js
+      </a>
     </td>
     <td align="center" width="90">
       <a href="https://techstack-generator.vercel.app/restapi-icon.svg" target="_blank">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55">
-      </a><br>REST API
+      </a>
     </td>
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
   <img width="12" />
